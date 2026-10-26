@@ -49,7 +49,7 @@ bit 2 is set
 ## Getting the code
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bit-helper.git
+git clone https://github.com/gandharvak312/bit-helper.git
 cd bit-helper
 ```
 
